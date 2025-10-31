@@ -8,11 +8,11 @@ The system efficiently handles artwork listings, artist profiles, buyer details,
 
 ## 🛠️ Tools Used
 
-MySQL – Database creation, management, and queries
+*  **MySQL** – Database creation, management, and queries
 
-SQL Workbench / phpMyAdmin – For database design and execution
+*  **SQL Workbench** – For database design and execution
 
-ER Diagram – For relationship mapping between entities
+*  **ER Diagram** – For relationship mapping between entities
 
 # 💡 Key Features of the Project
 
