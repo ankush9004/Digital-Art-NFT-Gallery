@@ -1,4 +1,4 @@
-🎨 Digital Art NFT Gallery: A Database Management System
+# 🎨 Digital Art NFT Gallery: A Database Management System
 
 This project is a SQL-based database system designed to manage and organize a Digital Art NFT Gallery, showcasing artists, artworks, and ownership details within the NFT ecosystem.
 
