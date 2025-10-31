@@ -16,15 +16,15 @@ ER Diagram – For relationship mapping between entities
 
 # 💡 Key Features of the Project
 
-* ** Artist Management:**  Store and manage artist information including name, bio, and portfolio.
+* **Artist Management:**  Store and manage artist information including name, bio, and portfolio.
 
-* ** Artwork Details:**  Track NFT artwork titles, descriptions, categories, and minting dates.
+* **Artwork Details:**  Track NFT artwork titles, descriptions, categories, and minting dates.
 
-* ** Ownership Tracking:** Record NFT transactions, ownership history, and current holders.
+* **Ownership Tracking:** Record NFT transactions, ownership history, and current holders.
 
-* ** Buyer Information:** Maintain details of collectors and buyers associated with NFTs.
+* **Buyer Information:** Maintain details of collectors and buyers associated with NFTs.
 
-* ** Sales & Bidding:** Analyze NFT sales and bidding activity using SQL queries and reports.
+* **Sales & Bidding:** Analyze NFT sales and bidding activity using SQL queries and reports.
 
 # 📊 Insights
 
